@@ -47,7 +47,7 @@ orders ──< order_items >── products >── categories
 
 ## Tableau Dashboard
 
-> 📊 [View Interactive Dashboard on Tableau Public](#) *(link after publishing)*
+> 📊 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/xiao.long/viz/OlistE-CommerceBusinessIntelligence/OlistE-CommerceBusinessIntelligence?publish=yes)
 
 Covers: GMV trend, cohort retention heatmap, category treemap, delivery impact chart, seller segmentation.
 
